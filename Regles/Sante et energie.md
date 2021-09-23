@@ -3,7 +3,7 @@
 Le corps d’un personnage est constitué de différentes parties, dont chacune possède des niveaux de blessures indépendants. Chez un être humain, ces parties sont par convention la tête, le torse, les 2 bras et les 2 jambes.
 
 ### Niveaux de blessure
-Chaque partie du corps dispose de 3 niveaux de blessures. Au départ, un personnage ne possède généralement aucune blessure nulle part.
+Chaque partie du corps dispose de 3 niveaux de blessures (sauf la tête, qui n'en a que 2). Au départ, un personnage ne possède généralement aucune blessure nulle part.
 - Le 1er niveau de blessure indique une *blessure superficielle*, c'est-à-dire une blessure sans gravité, qui n’a aucun impact sur les caractéristiques du personnage. 
 - Le 2e niveau de blessure représente *blessure sérieuse*, c'est-à-dire une blessure suffisamment grave pour empêcher le personnage d’agir normalement. Lorsqu’il utilise son membre blessé, le personnage retire 2 dés à son jet. Un torse blessé retire ces 2 dés pour TOUTES les actions physiques. 
 - Le 3e (et dernier) niveau de blessure indique que le membre est définitivement *perdu*. Il n’a pas forcément été complètement sectionné, mais est trop amoché pour pouvoir être récupéré. Un personnage ne peut, évidemment, plus se servir d’un membre perdu pour aucune action.
