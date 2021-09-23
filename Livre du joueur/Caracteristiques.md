@@ -11,11 +11,12 @@ Gardez en tête que la valeur « par défaut » d’un attribut est de 5. Chez u
 - Le *mental* représente l’intelligence et la volonté du personnage.
 - La *chance* est un attribut un peu particulier sert à contrebalancer le manque de chance d’un joueur (ou à profiter de la chance insolente d’un autre). L’attribut représente le nombre de points de chance maximum du personnage. La seconde ligne sert à tenir le compte des points utilisés. 
 
-### Utiliser la chance
+### Fonctionnement de la *chance*
+#### Utiliser la chance
 Un personnage peut utiliser 1 point de chance pour **relancer un dé**. Il n’y a pas de limite au nombre de dés relancés sur un même jet, mais ils doivent tous être relancés en une seule fois et les nouveaux résultats **doivent être conservés**. Un succès ou un échec critique **ne peut pas être relancé**. 
 Un personnage peut également utiliser 1 point de chance pour **éviter la perte d’un niveau de santé**. 
 
-### Récupérer la chance
+#### Récupérer la chance
 Seul le conteur peut choisir de restituer ou non des points de chances à un personnage, mais gardez à l’esprit que ces points peuvent être très puissants et qu’il vaut mieux en restituer trop peu que trop.
 
 ## Compétences
