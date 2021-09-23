@@ -16,7 +16,7 @@ Un personnage peut dépenser ses CP pour augmenter ses attributs et ses compéte
 
 Le cout de chaque augmentation ou gain est indiqué dans le tableau ci-dessous : 
 | Caractéristique à augmenter | Coût en CP (pour 1 point) | Notes                       |
-| :-------------------------- | :-----------------------: | --------------------------: |
+| :-------------------------- | :------------------------ | :-------------------------- |
 | Attribut                    | 10                        |                             |
 | Compétence                  | Niveau à atteindre        | Au delà de 5 points : x2    |
 | Particularité               | Selon indication          | Ajouter options éventuelles |
