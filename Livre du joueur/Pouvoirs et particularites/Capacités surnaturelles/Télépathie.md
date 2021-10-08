@@ -16,17 +16,17 @@ Le personnage n’a pas besoin de parler pour communiquer avec les personnes de 
 | 9 | 1 000 | 100 km |
 | 10 | 1 000 000 | 1 000 km |
 
-## Atout optionnel : Réseau télépathique (5 CP)
+### Atout optionnel : Réseau télépathique (5 CP)
 *L’esprit du personnage est capable d’agir comme un « serveur », connectant l’ensemble des personnes connectés à son pouvoir télépathique.*
 
 Lorsque le personnage utilise sa télépathie sur plusieurs personnes, il peut faire en sorte que celles-ci s’entendent également les unes les autres. Il peut « ouvrir » ou « fermer » son réseau au cas par cas, par exemple faisant en sorte qu’une personne soit entendue par tous les autres sans en entendre un seul.
 
-## Atout optionnel : Imposition de volonté (10 CP)
+### Atout optionnel : Imposition de volonté (10 CP)
 *Grâce à sa télépathie, le personnage est capable d’imposer sa volonté à l’esprit d’autrui.*
 
 Le personnage peut donner un ordre télépathique à ses cibles. L’ordre donne généralement lieu à jet de de persuasion ou d’intimidation, en opposition à un jet de résilience de la cible, tous 2 sous l’attribut mental. Si le télépathe emporte ce jet, la cible doit accomplir l’ordre. A la discrétion du conteur, un ordre allant à l’encontre du code moral de la cible ou mettant sa vie en danger direct peut donner lieu à un bonus à sa résilience.
 
-## Handicap optionnel : Contact nécessaire (-5 CP)
+### Handicap optionnel : Contact nécessaire (-5 CP)
 *Le télépathe a besoin d’un contact physique avec sa cible pour utiliser ses pouvoirs.*
 
 Le télépathe ne peut communiquer avec une personne qu’à condition de maintenir un contact physique avec elle. Evidemment, on ignore la portée normale de sa télépathie.
