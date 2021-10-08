@@ -10,3 +10,17 @@ En plus de ces 3 catégorie, il existe 2 autres catégories, absolument officieu
 - La *catégorie 4* (ou *armes secret-défense*) est un fantasme collectif qui rassemblerait des armes dont l'existence ne serait même pas reconnue. Ces armes pourraient être aussi bien des bijoux de technologies expérimentales que des reliques d'un passé mystérieux et oublié. Et bien sur, les dépositaires de telles armes auraient pour ordre absolu de maintenir le secret de leur existence... par tous les moyens.
 
 ## Règles spéciales des armes
+### Dégâts lourds
+On dit d'une arme qu'elle inflige des *dégâts lourds* lorsque son impact ne peut être sans conséquence pour sa victime. Lorsqu'un personnage subit des *dégâts lourds*, il ne passe jamais en *blessure superficielle*. Les blessures sont attribuées en commençant par *blessure grave*.
+
+### Précise
+Une arme *précise* permet à son utilisateur de viser plus facilement les points faibles dans la défense de son adversaire. Lorsqu'il attaque avec une arme *précise*, tous les succès critiques du personnage infligent 1 blessure à la cible, quelque soit sa valeur de défense.
+
+### Fracassement
+On dit qu'une arme est dotée du *fracassement* quand elle frappe suffisamment fort pour briser l'armure de sa cible. Lorsqu'il attaque avec une arme dotée du *fracassement*, tous les succès critiques du personnage réduise de 1 l'armure de la cible. Cette réduction d'armure intervient avant le calcul des blessures infligées et perdure dans le temps.
+
+### Force requise (X)
+Que ce soit à cause du poids de l'arme, du recul produit par son tir, ou pour toute autre raison, le maniement de l'arme exige une certaine force physique. Si le personnage qui utilise l'arme n'atteint pas la *force requise* indiquée, il perd autant de dés sur son jet d'attaque que la différence.
+
+### Rafale (X)
+Cette règle est exclusive aux armes à projectiles. Une arme dotée de *rafale* ne tire pas un projectile par tir, mais une rafale de X projectiles supplémentaires (indiqué entre parenthèses). Pour représenter le nombre accru de projectile, le personnage obtient un nombre de dés supplémentaires à son jet d'attaque égal à la valeur de rafale de l'arme. Il consomme également, bien entendu, autant de munitions supplémentaires.
