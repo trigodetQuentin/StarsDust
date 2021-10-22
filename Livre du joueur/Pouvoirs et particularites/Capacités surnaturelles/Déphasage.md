@@ -19,7 +19,7 @@ Tant qu’il demeure en état de déphasage, le personnage peut traverser les mu
 Le personnage peut toujours atteindre ses adversaires avec ses attaques lorsqu’il est déphasé.
 
 ### Handicap optionnel : Déphasage lent (-5 CP)
-*Les capacités de déphasage du personnage sont, à l’image d’un moteur diesel, très lentes à démarrer. *
+*Les capacités de déphasage du personnage sont, à l’image d’un moteur diesel, très lentes à démarrer.*
 
 Le personnage a besoin d’une minute pleine pour entrer ou sortir de l’état déphasé. Il ne peut de plus pas faire autre chose en même temps.
 
