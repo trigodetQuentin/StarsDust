@@ -17,3 +17,8 @@ Le personnage est capable de « soigner » intégralement un membre perdu. Soit 
 *Aussi exceptionnelles que soient les capacités de guérison du personnage, elles ne sont pas parfaites et provoquent chez lui de vives douleurs, capable de lui faire perdre le contrôle.*
 
 A chaque tour où il effectue sa régénération, le personnage doit effectuer une action complexe de contrôle de soi, sous son attribut de constitution. La difficulté de l’action est égale au nombre de points d’énergie dépensés. En cas d’échec, le personnage perd autant de dés que la marge d’échec à sa prochaine action. En cas d’échec critique, il peut aller jusqu’à perdre connaissance, à la discrétion du conteur.
+
+### Handicap optionnel : "Peau neuve" (-5 CP)
+*Lorsque le personnage régénère ses blessures, cette régénération est pragmatique avant d'être esthétique. Sa nouvelle peau a un aspect trop neuf, trop tirée. Les contours de ses cicatrices restent discernables. Avec le temps, les marques de cette régénération s'estompe, mais durant les quelques jours qui suivent, le personnage conserve un aspect dérangeant pour qui le regarde.
+
+Les effets exactes de ce handicap sont laissés à la discrétion du conteur, mais il s'agit d'un désagrément esthétique qui permet d'identifier les capacités du personnage et peuvent lui porter préjudice lors de ses interractions sociales.
