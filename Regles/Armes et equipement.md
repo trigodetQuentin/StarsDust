@@ -13,6 +13,10 @@ En plus de ces 3 catégorie, il existe 2 autres catégories, absolument officieu
 ### Dégâts lourds
 On dit d'une arme qu'elle inflige des *dégâts lourds* lorsque son impact ne peut être sans conséquence pour sa victime. Lorsqu'un personnage subit des *dégâts lourds*, il ne passe jamais en *blessure superficielle*. Les blessures sont attribuées en commençant par *blessure grave*.
 
+### Non-létal
+Une arme *non-létale* est une arme conçue pour ne pas tuer ses cibles. Peu importe le nombre de blessures *non-létales* qu'il subit, il ne perd jamais le dernier niveau de santé du membre ciblé. Si le personnage devrait perdre l'usage d'un membre, cette perte n'est que temporaire. Si il devrait subir une blessure mortelle, il perd simplement connaissance.
+Dans la pratique, la plupart des armes peuvent en réalité servir à tuer, mais l'utilisateur doit alors s'acharner sur sa victime, dans une action bien trop longue pour tenir dans un seul tour de combat.
+
 ### Précise
 Une arme *précise* permet à son utilisateur de viser plus facilement les points faibles dans la défense de son adversaire. Lorsqu'il attaque avec une arme *précise*, tous les succès critiques du personnage infligent 1 blessure à la cible, quelque soit sa valeur de défense.
 
