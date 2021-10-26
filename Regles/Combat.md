@@ -1,6 +1,11 @@
 # Combat
-## Résoudre un combat
-Un combat est représenté par un jet en opposition entre l’attaquant et le défenseur. Si l’attaquant obtient davantage de succès que le défenseur, il peut attribuer les dégâts de son attaque.
+## Initiative
+Au début du premier tour de combat, l'ensemble des personnages participant au combat doit déterminer leur initiative. Pour ce faire, chaque personnage doit tester la compétence utilisée par son arme, sous la valeur d'initiative de celle-ci. Si un personnage n'utilise pas d'armes, le test se fait sous sa dextérité.
+Une fois les initiatives déterminées, les personnages agissent chacun leur tour, par ordre décroissant de succès d'initiative.
+Si un personnage intègre le combat en cours de route, il détermine son intiative et s'intègre dans l'ordonnancement à partir du tour suivant.
+
+## Résoudre une attaque
+Une attaque est représenté par un jet en opposition entre l’attaquant et le défenseur. Si l’attaquant obtient davantage de succès que le défenseur, il peut attribuer les dégâts de son attaque.
 
 ### Attaque
 L’attaque d’un personnage est résolue par un jet ordinaire sur les caractéristiques adaptées :
