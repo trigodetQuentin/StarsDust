@@ -4,7 +4,7 @@ Un jet se fait toujours avec un ou plusieurs D10.
 Un jet de dé se fait habituellement sur 2 caractéristiques d’un personnage :
 - Un *attribut*, qui indique la valeur à atteindre. Un dé affichant un résultat **inférieur ou égal** à cette valeur est considéré comme un succès.
 - Une *compétence*, qui indique le **nombre de dés** que le personnage peut lancer simultanément. Notez qu’un personnage peut à tout moment choisir de jeter moins de dés que ce que sa compétence lui permet.
-Certains jets, plus complexes, font intervenir un 3 paramètre : la *difficulté*, qui indique le **nombre minimum de succès** que le personnage doit obtenir sur ses dés.
+Certains jets, plus complexes, font intervenir un 3e paramètre : la *difficulté*, qui indique le **nombre minimum de succès** que le personnage doit obtenir sur ses dés.
 
 ### Echelle de succès
 Un personnage réussi une action à partir du moment où il a obtenu au moins 1 succès sur son jet (ou au moins le nombre de succès minimum correspondant à la *difficulté* du jet). Néanmoins, il peut exister une grande différence d’ampleur entre ces réussites, dépendant du nombre de succès obtenus.
@@ -16,7 +16,7 @@ Voici quelques indicateurs.
 ### Succès & échecs critiques
 Un dé affichant un 1 est un *succès critique*. Il est toujours considéré comme un succès, et permet de plus de **relancer un dé** obtenu lors de ce jet.
 
-Un dé affichant un 10 est un *échec critique*. Il est toujours considéré comme un échec et de plus, il**retire un autre succès** du jet.
+Un dé affichant un 10 est un *échec critique*. Il est toujours considéré comme un échec et de plus, il **retire un autre succès** du jet.
 
 Un succès et un échec critique simultanés **s’annulent l’un l’autre**, sans impacter les autres dés. Si un jet produit à la fois des succès et des échecs critiques, on commence par annuler ceux-ci 2 à 2, jusqu’à avoir intégralement consommé l’un ou l’autre. 
 
