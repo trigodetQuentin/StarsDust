@@ -12,12 +12,16 @@
 | :------ | :-------- | :-------- | :------------------- |
 | Couteau | Constitution - 1 | Dexterite + 2 | - |
 | Matraque | Constitution + 1 | Dexterite - 1 | - |
-| Taser | 7 | Dexterite | Non-létal |
+| Taser | 7 | Dexterite | Dégâts temporaires |
 
 ## Armes professionnelles (Cat. 2)
 | Arme  | Dégâts | Initiative | Règles spéciales |
 | :------ | :-------- | :-------- | :------------------- |
-| Fouet Mnémalgésique | 9 | Dexterite - 1 | Non-létal |
+| Fouet Mnémalgésique | 9 | Dexterite - 2 | Dégâts temporaires |
+
+### Fouet Mnémalgésique
+La plupart des armes dites "professionnelles" le sont car elles sont conçues pour tuer. Mais les plus effrayantes d'entre elles sont probablement celles qui ont spécifiquement été conçues pour **ne pas** tuer. 
+Le fouet mnémalgésique est de celles-ci, une arme sadique, interdite dans beaucoup de juridictions, conçue pour infliger de vives douleurs à sa cible. Le fouet est constitué d'une membrane énergétique, légèrement chaude, qui ne laisse pas de morsure sur la chaire, mais reproduit les stimulis du système nerveux relatifs à la douleur.
 
 ## Armes lourdes (Cat. 3)
 
@@ -28,7 +32,7 @@
 ## Armes civiles (Cat. 1)
 | Arme  | Dégâts | Initiative | Règles spéciales |
 | :------ | :-------- | :-------- | :------------------- |
-| Snaper | 4 | Dexterite - 1 | Non-létal |
+| Snaper | 4 | Dexterite - 1 | Dégâts temporaires |
 
 ### Snaper
 Le snaper (aussi parfois appelé "claque-doigt") est un blaster de défense qui projette une décharge à faible fréquence. Il doit son surnom à la sensation caractéristique de claquement métallique ressenti par sa cible. Développé pour un usage exclusivement dissuasif, il est bien évidemment non-létal.

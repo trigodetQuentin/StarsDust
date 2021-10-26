@@ -11,11 +11,22 @@ En plus de ces 3 catégorie, il existe 2 autres catégories, absolument officieu
 
 ## Règles spéciales des armes
 ### Dégâts lourds
-On dit d'une arme qu'elle inflige des *dégâts lourds* lorsque son impact ne peut être sans conséquence pour sa victime. Lorsqu'un personnage subit des *dégâts lourds*, il ne passe jamais en *blessure superficielle*. Les blessures sont attribuées en commençant par *blessure grave*.
+On dit d'une arme qu'elle inflige des *dégâts lourds* lorsque son impact ne peut être sans conséquence pour sa victime. Lorsqu'un personnage subit des *dégâts lourds*, la première blessure subie le fait directement passer en "blessure grave".
 
-### Non-létal
-Une arme *non-létale* est une arme conçue pour ne pas tuer ses cibles. Peu importe le nombre de blessures *non-létales* qu'il subit, il ne perd jamais le dernier niveau de santé du membre ciblé. Si le personnage devrait perdre l'usage d'un membre, cette perte n'est que temporaire. Si il devrait subir une blessure mortelle, il perd simplement connaissance.
-Dans la pratique, la plupart des armes peuvent en réalité servir à tuer, mais l'utilisateur doit alors s'acharner sur sa victime, dans une action bien trop longue pour tenir dans un seul tour de combat.
+### Dégâts temporaires
+Certaines armes, conçues spécifiquement pour ne pas attenter à la vie de leur cible, infligent des *dégâts temporaires* à celle-ci. En terme de jeu, les *dégâts temporaires* diffèrent des dégâts réels sur les points suivants :
+- Ils disparaissent avec le temps (voir tableau ci-dessous).
+- Si un personnage devrait mourir suite à des *dégâts temporaires*, il tombe à la place dans l'inconscience, jusqu'à la disparition de ceux-ci.
+- Ils sont attribués indépendamment des dégâts réels. Un personnage peut ainsi être en *blessure superficielle* du point de vue des dégâts réels et en *blessure sérieuse* du point de vue des dégâts temporaires, ou vice-versa. Aussi, il est conseiller de ne pas représenter les *dégâts temporaires* et réels de la manière, pour ne pas les confondre l'un avec l'autre. 
+
+Dans la pratique, la plupart de ces armes peuvent en réalité servir à tuer, mais l'utilisateur doit alors s'acharner sur sa victime, dans une action bien trop longue pour tenir dans un seul tour de combat.
+
+Le temps de rétablissement nécessaire à un personnage ayant subit des dégâts temporaires dépend de l'état de santé dans lequel il se trouve. Par commodité, voici un tableau **indicatif** du temps nécessaire :
+| Niveau de santé | Temps de rétablissement nécessaire |
+| :------------------ | :----------------------------------------- |
+| Blessure superficielle | 5 tours |
+| Blessure sérieuse | 10 minutes |
+| Membre perdu/inconscient | 1 heure |
 
 ### Précise
 Une arme *précise* permet à son utilisateur de viser plus facilement les points faibles dans la défense de son adversaire. Lorsqu'il attaque avec une arme *précise*, tous les succès critiques du personnage infligent 1 blessure à la cible, quelque soit sa valeur de défense.
