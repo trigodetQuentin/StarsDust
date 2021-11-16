@@ -39,8 +39,8 @@ Si un personnage défenseur obtient davantage de succès que l’attaquant, il o
 Si le personnage attend plus d’un tour complet pour attaquer son adversaire, le bonus de contre-attaque est perdu. 
 
 ### Immobilisation et renversement
-Lors d’un combat, un personnage peut choisir, au lieu de blesser son adversaire, d’essayer de l’immobiliser, de le renverser ou de le contraindre d’une quelconque manière. Plus largement, on peut étendre cette règle à toute action visant à empêcher temporairement l’adversaire de se battre normalement.
-Immobiliser ou renverser un adversaire est une *action complexe (2)* de *mêlée*, dont l’attribut testé est généralement la *dextérité* ou la *constitution*.
+Lors d’un combat, un personnage peut choisir, au lieu de blesser son adversaire, d’essayer de l’immobiliser, de le renverser ou de le contraindre d’une quelconque manière. Plus largement, ce paragraphe peut s'étendre à toute action visant à empêcher temporairement l’adversaire de se battre normalement.
+Immobiliser ou renverser un adversaire est une *action complexe (2)*, généralement de *mêlée* et dont l’attribut testé est généralement la *dextérité* ou la *constitution*.
 
 ### Mise hors-combat
 Lors d’un combat, un personnage peut tenter de clore un combat sans tuer son adversaire. Qu’il essaie de le ligoter, de lui faire perdre connaissance ou quoi que ce soit d’autre, cette catégorie regroupe toutes les actions ayant pour objectif d’empêcher un adversaire de se battre, de manière durable sans mettre fin à ses jours.

@@ -17,7 +17,7 @@ En plus de ses niveaux de blessure, un personnage dispose d’un niveau d’éne
 Gardez en tête qu’en temps normal, un être humain dépense et regagne entre 8 et 10 points d’énergie dans une même journée. 
 
 ### Niveaux d’énergie
-- De 19 à 24 points d’énergie, un personnage est *en forme*. Bien reposé et nourri, il est en pleine possession de ses moyens et dispose même d’**un dé supplémentaire** pour toute action qu’il entreprendrait.
+- De 19 à 24 points d’énergie, un personnage est *en forme*. Bien reposé et nourri, il est en pleine possession de ses moyens et dispose même d’**1 dé supplémentaire** pour toute action qu’il entreprendrait.
 - De 13 à 18 points d’énergie, un personnage est dans un état *normal*. Il ne reçoit aucun bonus ni malus dû à son état.
 - Entre 7 et 12 points d’énergie, un personnage est considéré comme *fatigué*. Il peut manquer quelque peu de sommeil ou avoir juste faim. Dans tous les cas, son état l’empêche d’être parfaitement efficace et il **perd 1 dé** pour toute action physique qu’il entreprendrait.
 - Si un personnage dispose de 6 points d’énergie ou moins, il est considéré comme *défaillant*. Epuisé et mal nourri, il est au bord de l’évanouissement. S’il tente TOUTE action (y compris une action non-physique), il dispose de **3 dés de moins** que la normale. De plus, tout échec critique le fait **sombrer dans l’inconscience** (en plus des conséquences de l’échec critique en lui-même).
@@ -44,4 +44,4 @@ Un personnage peut dépenser de son énergie afin de guérir de ses blessures.
 -    Une blessure ne peut être ainsi guérie qu’à partir du lendemain. Cela représente le temps de cicatrisation nécessaire au corps
 -    Guérir une blessure superficielle coute **1 point d’énergie**.
 -    Guérir une blessure sérieuse coute **5 points d’énergie**. La dépense peut être répartie sur plusieurs jours.
--    Un personnage peut dépenser jusqu’à **2 points d’énergie** pour guérir ses blessures par **jour de repos complet**. Cette limite tombe à 1 seul point s’il est actif dans la journée.
+-    Un personnage peut dépenser jusqu’à **2 points d’énergie** pour guérir ses blessures par **jour de repos complet**. Cette limite tombe à 1 seul point s’il a été actif dans la journée écoulée.

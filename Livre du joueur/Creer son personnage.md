@@ -19,7 +19,7 @@ Le cout de chaque augmentation ou gain est indiqué dans le tableau ci-dessous :
 | :-------------------------- | :------------------------ | :------------------------------ |
 | Attribut                    | 10                        |                                 |
 | Compétence                  | Niveau à atteindre        | Au delà de 5 points : x2        |
-| Particularité               | Selon indication          | Ajouter les options éventuelles |
+| Particularité               | Selon indication          | Inclure les options éventuelles |
 
 ### Obtenir des CP
 Au fil de ses aventures, un personnage va obtenir des CP de différentes manières. La répartition exacte reste à la discrétion du conteur, mais voici quelques pistes pour vous éclairer :
