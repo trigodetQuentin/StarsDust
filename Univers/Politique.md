@@ -8,11 +8,12 @@ La plupart des territoires administrées par le groupe sont des colonies artific
 
 ### Cyberth
 *Cyberth* est un conglomérat d'entreprises d'ultra-technologie, qui prône un transhumanisme total du vivant. 
-La direction de *Cyverth* est assurée par un conseil composé de 8 membres permanents et de 8 sièges vacants, tournant entre les autres entreprises de la corporation.
+La direction de *Cyberth* est assurée par un conseil composé de 8 membres permanents et de 8 sièges vacants, tournant entre les autres entreprises de la corporation.
 
 ### Polaris
-*Polaris* est une corporation rassemblant des acteurs très divers, mais dont les secteurs d'activité principaux sont le transport de marchandises et de personnes, ainsi que l'administration territoriale. Elle est ainsi présente (et souvent très influente) sur des colonies dont elle n'a pourtant aucune propriété, et entretient des liens forts avec leurs propriétaires officiels, qui sont de fait ses clients
-Polaris dispose également de la plus vaste milice parmi l'ensemble des corporations marchandes, et installe une caserne permanente sur pratiquement l'ensemble des colonies qu'elle administre. 
+*Polaris* est une corporation spécialisée dans le transport de marchandise et de personnes, ainsi que dans l'administration territoriale. Ces deux activités lui assurent une présence (et souvent une forte influence) sur des territoire dont elle n'a pourtant aucune propriété, et dont les véritables propriétaires sont ses clients. 
+En parallèle de ses activités principales, *Polaris* à assimilé des acteurs très divers afin d'assurer sa propre autonomie dans l'ensemble de son activité. Le groupe possède ainsi ses propres usines de construction ou encore ses propres exploitations agricoles.
+Enfin, *Polaris* dispose également de la plus vaste milice parmi toutes les corporations marchandes (formée notemment par l'assimilation de groupes para-militaires). Et le groupe veille à installer une caserne permanente sur pratiquement l'ensemble des territoires où il intervient, cela bien sur afin d'y renforcer sa présence et son influence.
 
 ## La noblesse
 
