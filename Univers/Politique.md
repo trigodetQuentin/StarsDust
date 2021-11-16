@@ -2,6 +2,10 @@
 
 ## Les corporations marchandes
 
+## Groupe Pioneers
+Le *Groupe Pioneers* est un rassemblement des plus influents acteurs de la navigation spatiale : constructeurs de vaisseaux, réseaux de transports, etc... 
+La plupart des colonies administrées par le groupe sont des colonies artificielles, voir d'immenses vaisseaux-colonies toujours en mouvement.
+
 ### Cyberth
 *Cyberth* est un conglomérat d'entreprises d'ultra-technologie, qui prône un transhumanisme total du vivant. 
 La direction de *Cyverth* est assurée par un conseil composé de 8 membres permanents et de 8 sièges vacants, tournant entre les autres entreprises de la corporation.
