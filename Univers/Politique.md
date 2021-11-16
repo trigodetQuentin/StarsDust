@@ -9,6 +9,7 @@ La plupart des territoires administrées par le groupe sont des colonies artific
 ### Cyberth
 *Cyberth* est un conglomérat d'entreprises d'ultra-technologie, qui prône un transhumanisme total du vivant. 
 La direction de *Cyberth* est assurée par un conseil composé de 8 membres permanents et de 8 sièges vacants, tournant entre les autres entreprises de la corporation.
+Naturellement, *Cyberth* s'intéresse fortement à la civilisation *onthyr*. La corporation à tisser des liens étroits avec de nombreux hiérarques des machines vivantes, et leur fournie les ressources nécessaires à la subsistance des mondes artificiel en échange d'informations sur leurs anciennes technologies.
 
 ### Polaris
 *Polaris* est une corporation spécialisée dans le transport de marchandise et de personnes, ainsi que dans l'administration territoriale. Ces deux activités lui assurent une présence (et souvent une forte influence) sur des territoire dont elle n'a pourtant aucune propriété, et dont les véritables propriétaires sont ses clients. 
