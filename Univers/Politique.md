@@ -36,10 +36,12 @@ Malgré l'influence grandissantes des corporations marchandes, qui s'accaparent 
 Si les nobles disposent d'un pouvoir limité dans la géopolitique globale de l'univers (seuls les plus puissants, propriétaires de nombreuses planètes, voir de systèmes entiers peuvent se vanter de jouer sur la scène universelle), ils conservent un pouvoir plus que concret à l'échelle de leur territoire. 
 
 **Quelques nobles notables :**
-- La famille *Von Rizman* possède probablement le plus large empire privé, avec près d'une trentaine de planètes leur appartenant. Il s'agit d'une très ancienne famille humaine, qui prétend descendre des premiers colons à avoir quitter *Terre Mère*. Elle entretient de très bonnes relations avec l'empire vajrapti, qui lui assurent une bonne position dans le jeu politique.
+- La famille *Von Rizman* possède probablement le plus large empire privé, avec près d'une trentaine de planètes leur appartenant. Il s'agit d'une très ancienne famille humaine, qui prétend descendre des premiers colons à avoir quitter *Terre Mère*. Elle entretient de très bonnes relations avec l'empire *vajrapti*, qui lui assurent une bonne position dans le jeu politique.
 - *Thadeus Bills* est le propriétaire d'une planète aux ressources minières très convoitées par *Heavy Dust*. Accariâtre, il refuse obstinément de vendre son domaine, ce qui lui vaut un certain respect de la part des habitants. Néanmoins, la firme minière commence à perdre patience et a tenté plusieurs fois d'attenter à sa vie, bien qu'aucune de leurs entreprises n'ai encore réussi.
 
 ## L'empire vajrapti
+Les *vajraptis* sont une espèce intelligente, vaguement insectoïde, qui avait entrepris leur conquête spatiale bien avant que l'humanité ne quitte *Terre Mère*. 
+L'empire *vajrapti* s'étend aujourd'hui sur plus de la moitié de l'univers connu.
 
 ## L'Odre de la Terre Humaniste
 L'*Ordre de la Terre Humaniste*, parfois abrégé en *O.T.H.*, est une secte politique, philosophique et religieuse, qui s'oppose fermement au droit de propriété sur le sol et les planètes. Et bien que son expansion ai été quelque peu ralenti par des révélations de malversations, ses rangs ne cessent toujours d'attirer plus d'âmes égarées, aux vies broyées par des corporations toutes puissantes.
