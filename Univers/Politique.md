@@ -6,11 +6,15 @@
 Le *Groupe Pioneers* est un rassemblement des plus influents acteurs de la navigation spatiale : constructeurs de vaisseaux, réseaux de transports, etc... 
 La plupart des territoires administrées par le groupe sont des colonies artificielles, voir d'immenses vaisseaux-colonies constamment en mouvement.
 
+Le *Groupe Pioneers* est très impliqué dans l'expansion de l'espace connu, et subventionne de nombreux colons et explorateurs.
+
 ### Cyberth
 *Cyberth* est un conglomérat d'entreprises à la pointe de la recherche, qui prône un transhumanisme total du vivant. Si la corporation regroupe certaines des entreprises ayant le plus contribué au bien-être du vivant, elle compte également de nombreux acteurs de la recherche illégale et du marché noir.
 La direction de *Cyberth* est assurée par un conseil composé de 8 membres permanents
  et de 8 sièges vacants, tournant entre les autres entreprises de la corporation.
-Naturellement, *Cyberth* s'intéresse de très près aux *onthyrs*, malgré la défiance de la plupart d'entre eux à leur égard. En fait, la corporation s'est depuis longtemps rapproché des hiérarques *onthyrs* et fournit une quantité non-négligeable de ressources nécessaires à la subsistance des 9 lunes artificielles. 
+ Enfin, la corporation peut compter sur de nombreux riches mécènes, en particulier des nobles à la recherche de moyen d'allonger leur durée de vie et prêts à tout pour y parvenir.
+ 
+Naturellement, *Cyberth* s'intéresse de très près aux *onthyrs*, malgré la défiance de la plupart d'entre eux à son égard. En fait, la corporation s'est depuis longtemps rapproché des hiérarques *onthyrs* et fournit une quantité non-négligeable de ressources nécessaires à la subsistance des 9 lunes artificielles. En échange de ce soutien, la corporation reçoit informations et ressources afin d'essayer de percer le secret des technologies oubliées des *onthyrs*.
 
 **Membres notables :**
 - *Néosphère*, grand leader de la recherche pharmaceutique. Un des fondateurs de la corporation.
@@ -27,6 +31,13 @@ En parallèle de ses activités principales, *Polaris* à assimilé des acteurs 
 Enfin, *Polaris* dispose également de la plus vaste milice parmi toutes les corporations marchandes (formée notemment par l'assimilation de groupes para-militaires). Et le groupe veille à installer une caserne permanente sur pratiquement l'ensemble des territoires où il intervient, cela bien sur afin d'y renforcer sa présence et son influence.
 
 ## La noblesse
+Malgré l'influence grandissantes des corporations marchandes, qui s'accaparent petit à petit l'espace tout entier, de nombreuses planètes et colonies appartiennent au moins en partie à de riches propriétaires terriens. Ces terres leurs ont généralement été transmises par leur lignée, et ils les transmettront à leur tour à leur descendance, ce qui leur vaut le titre de "noble".
+
+Si les nobles disposent d'un pouvoir limité dans la géopolitique globale de l'univers (seuls les plus puissants, propriétaires de nombreuses planètes, voir de systèmes entiers peuvent se vanter de jouer sur la scène universelle), ils conservent un pouvoir plus que concret à l'échelle de leur territoire. 
+
+**Quelques nobles notables :**
+- La famille *Von Rizman* possède probablement le plus large empire privé, avec près d'une trentaine de planètes leur appartenant. Il s'agit d'une très ancienne famille humaine, qui prétend descendre des premiers colons à avoir quitter *Terre Mère*. Elle entretient de très bonnes relations avec l'empire vajrapti, qui lui assurent une bonne position dans le jeu politique.
+- *Thadeus Bills* est le propriétaire d'une planète aux ressources minières très convoitées par *Heavy Dust*. Accariâtre, il refuse obstinément de vendre son domaine, ce qui lui vaut un certain respect de la part des habitants. Néanmoins, la firme minière commence à perdre patience et a tenté plusieurs fois d'attenter à sa vie, bien qu'aucune de leurs entreprises n'ai encore réussi.
 
 ## L'empire vajrapti
 
