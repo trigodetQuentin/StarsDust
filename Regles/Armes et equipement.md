@@ -10,6 +10,7 @@ En plus de ces 3 catégorie, il existe 2 autres catégories, absolument officieu
 - La *catégorie 4* (ou *armes secret-défense*) est un fantasme collectif qui rassemblerait des armes dont l'existence ne serait même pas reconnue. Ces armes pourraient être aussi bien des bijoux de technologies expérimentales que des reliques d'un passé mystérieux et oublié. Et bien sur, les dépositaires de telles armes auraient pour ordre absolu de maintenir le secret de leur existence... par tous les moyens.
 
 ## Règles spéciales des armes
+
 ### Dégâts lourds
 On dit d'une arme qu'elle inflige des *dégâts lourds* lorsque son impact ne peut être sans conséquence pour sa victime. Lorsqu'un personnage subit des *dégâts lourds*, la première blessure subie le fait directement passer en "blessure grave".
 
@@ -22,11 +23,11 @@ Certaines armes, conçues spécifiquement pour ne pas attenter à la vie de leur
 Dans la pratique, la plupart de ces armes peuvent en réalité servir à tuer, mais l'utilisateur doit alors s'acharner sur sa victime, dans une action bien trop longue pour tenir dans un seul tour de combat.
 
 Le temps de rétablissement nécessaire à un personnage ayant subit des dégâts temporaires dépend de l'état de santé dans lequel il se trouve. Par commodité, voici un tableau **indicatif** du temps nécessaire :
-| Niveau de santé | Temps de rétablissement nécessaire |
-| :------------------ | :----------------------------------------- |
-| Blessure superficielle | 5 tours |
-| Blessure sérieuse | 10 minutes |
-| Membre perdu/inconscient | 1 heure |
+| Niveau de santé          | Temps de rétablissement nécessaire |
+| :----------------------- | :--------------------------------- |
+| Blessure superficielle   | Fin du combat, ou quelques minutes |
+| Blessure sérieuse        | Moins d'une heure |
+| Membre perdu/inconscient | Plusieurs heures |
 
 ### Précise
 Une arme *précise* permet à son utilisateur de viser plus facilement les points faibles dans la défense de son adversaire. Lorsqu'il attaque avec une arme *précise*, tous les succès critiques du personnage infligent 1 blessure à la cible, quelque soit sa valeur de défense.
@@ -34,8 +35,11 @@ Une arme *précise* permet à son utilisateur de viser plus facilement les point
 ### Fracassement
 On dit qu'une arme est dotée du *fracassement* quand elle frappe suffisamment fort pour briser l'armure de sa cible. Lorsqu'il attaque avec une arme dotée du *fracassement*, tous les succès critiques du personnage réduise de 1 l'armure de la cible. Cette réduction d'armure intervient avant le calcul des blessures infligées et perdure dans le temps.
 
+### Immobilisation (X)
+Certaines armes se prêtent naturellement à immobiliser un adversaire. Le plus souvent, il s'agit d'armes flexibles, comme des cordes ou des chaines. Lorsqu'un personnage entreprend une manoeuvre d'*immobilisation* avec une telle arme, il peut utiliser la valeur de **X** comme valeur à atteindre pour son jet.
+
 ### Force requise (X)
 Que ce soit à cause du poids de l'arme, du recul produit par son tir, ou pour toute autre raison, le maniement de l'arme exige une certaine force physique. Si le personnage qui utilise l'arme n'atteint pas la *force requise* indiquée, il perd autant de dés sur son jet d'attaque que la différence.
 
 ### Rafale (X)
-Cette règle est exclusive aux armes à projectiles. Une arme dotée de *rafale* ne tire pas un projectile par tir, mais une rafale de X projectiles supplémentaires (indiqué entre parenthèses). Pour représenter le nombre accru de projectile, le personnage obtient un nombre de dés supplémentaires à son jet d'attaque égal à la valeur de rafale de l'arme. Il consomme également, bien entendu, autant de munitions supplémentaires.
+Cette règle est exclusive aux armes à projectiles. Une arme dotée de *rafale* ne tire pas un projectile par tir, mais une rafale de **X** projectiles supplémentaires (indiqué entre parenthèses). Pour représenter le nombre accru de projectile, le personnage obtient un nombre de dés supplémentaires à son jet d'attaque égal à la valeur de rafale de l'arme. Il consomme également, bien entendu, autant de munitions supplémentaires.

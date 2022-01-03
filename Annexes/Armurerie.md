@@ -4,15 +4,20 @@
 
 | Arme  | Dégâts | Initiative | Règles spéciales |
 | :------ | :-------- | :-------- | :------------------- |
-| Tesson de bouteille | Constitution - 2 | 6 | - |
-| Barre métallique | Constitution | 5 | - |
+| Tesson de bouteille | Constitution - 3 | 6 | - |
+| Cable électrique (non-alimenté) | 1 | 4 | Immobilisation (6) |
+| Barre métallique | Constitution - 1 | 5 | - |
+| Marteau de démolition | Constitution + 2 | 3 | Force Requise (6/9) ; Dégâts lourds ; Fracassement |
+
+### Marteau de démolition
+Les imposants marteaux a 2 mains que l'ont trouve sur les chantiers et les sites miniers constituent des armes redoutables, entre les mains de ceux qui peuvent les soulever. Généralement constitués d'un manche d'un bon mètre, surmonté d'une lourde tête en fonte ou en matière minérale, ces marteaux nécessitent une grande force pour être maniés (6 lorsque le personnage utilise ses 2 mains, ou 9 s'il souhaite le manier d'une seule main). Néanmoins, l'impact d'un objet d'une telle masse, même s'il n'est pas conçu pour être une arme, n'est jamais sans conséquence. 
 
 ## Armes civiles (Cat. 1)
 | Arme  | Dégâts | Initiative | Règles spéciales |
 | :------ | :-------- | :-------- | :------------------- |
-| Couteau | Constitution - 1 | 8 | - |
-| Matraque | Constitution + 1 | 6 | - |
-| Taser | 7 | Dexterite | 6 |
+| Couteau | Constitution - 2 | 8 | - |
+| Matraque | Constitution | 5 | - |
+| Taser | 7 | 6 | Dégâts temporaires |
 
 ## Armes professionnelles (Cat. 2)
 | Arme  | Dégâts | Initiative | Règles spéciales |
@@ -28,23 +33,39 @@ Le fouet mnémalgésique est de celles-ci, une arme sadique, interdite dans beau
 # Armes de tir
 
 ## Armes improvisées (Cat. 0)
+| Arme  | Dégâts | Initiative | Règles spéciales |
+| :------ | :-------- | :-------- | :------------------- |
+| Pistolet d'artifice | 4 | 6 | Dégâts temporaires |
 
 ## Armes civiles (Cat. 1)
 | Arme  | Dégâts | Initiative | Règles spéciales |
 | :------ | :-------- | :-------- | :------------------- |
-| Snaper | 4 | 7 | Dégâts temporaires |
+| Snaper | 3 | 7 | Dégâts temporaires |
+| Pacifieur | - | 6 | Précise ; Immobilisation (7) |
 
 ### Snaper
 Le snaper (aussi parfois appelé "claque-doigt") est un blaster de défense qui projette une décharge à faible fréquence. Il doit son surnom à la sensation caractéristique de claquement métallique ressenti par sa cible. Développé pour un usage exclusivement dissuasif, il est bien évidemment non-létal.
 
+### Pacifieur
+Le pacifieur est un petit pistolet, utilisé entre autre par les forces de l'ordre et les dresseurs animaliers, pour paralyser temporairement un individu ou une bête récalcitrante. L'arme projette une petite aiguille dont le revêtement éléctro-stimulé peut court-circuiter le système nerveux local. L'arme ne peut pas être utilisé pour infliger des dégâts, mais un tir réussi produit les mêmes effets qu'une tentative d'*immobilisation* réussie.
+
 ## Armes professionnelles (Cat. 2)
 | Arme  | Dégâts | Initiative | Règles spéciales |
 | :------ | :-------- | :-------- | :------------------- |
-| Blaster à fragmentation | 8 | 4 | Rafale (3) |
+| Blaster à fragmentation | 6 | 4 | Rafale (3) |
 | Fusil à lunette | 8 | 2 | Précis |
 | Dust2Dust | 8 | 4 | Dégâts lourds |
 
 ### Dust2Dust
-Le désintégrateur Dust2Dust est une arme effrayante, qui reprend une technologie similaire aux canons vibratoires, mais la miniaturise dans une arme de la taille d'un simple fusil.
+Le désintégrateur Dust2Dust est une arme effrayante, qui reprend une technologie similaire aux canons vibratoires, mais la miniaturise dans une arme de la taille d'un simple fusil. Le tir projette une onde qui vibre à une vitesse approchant la fréquence de Larmor pour un être humain. Le résultat est que les atomes qui constituent la chaire se disloquent autour du point d'impact. Le corps de la vitime semble ainsi se désintagrer à chaque tir.
 
 ## Armes lourdes (Cat. 3)
+
+# Autres armes
+
+| Arme  | Dégâts | Initiative | Règles spéciales |
+| :------ | :-------- | :-------- | :------------------- |
+| Bolas à fragmentation magnétique | Constitution -3 | 6 | Immobilisation (7) |
+
+### Bolas à fragmentation magnétique
+Ces petites balles métalliques sont en réalités des armes défensives, servant à immobiliser autrui. A l'impact, les balles se décomposent en plusieurs fragments, entrelassés par des liens éléctromagnétiques. Les cables, ou filets, ainsi produits peuvent s'enrouler autour de la cible, pour la maitriser efficacement.

@@ -1,8 +1,12 @@
 # Combat
+
 ## Initiative
-Au début du premier tour de combat, l'ensemble des personnages participant au combat doit déterminer leur initiative. Pour ce faire, chaque personnage doit tester la compétence utilisée par son arme, sous la valeur d'initiative de celle-ci. Si un personnage n'utilise pas d'armes, le test se fait sous sa dextérité.
-Une fois les initiatives déterminées, les personnages agissent chacun leur tour, par ordre décroissant de succès d'initiative.
-Si un personnage intègre le combat en cours de route, il détermine son intiative et s'intègre dans l'ordonnancement à partir du tour suivant.
+Au début du premier tour de combat, l'ensemble des personnages effectue un jet pour déterminer leur initiative. On procède comme suit :
+- La compétence testée est celle utilisée par l'arme du personnage (le plus souvent *Mêlée* ou *Tir*).
+- La valeur à atteindre correspond à la caractéristique *Initiative* de l'arme. Si le personnage n'utilise pas d'arme, la valeur à atteindre est sa *Dextérité*.
+- Le personnage qui obtient le plus de réussites est le premier à agir. Puis, on procède par nombre décroissant de réussites.
+- En cas d'égalité dans le nombre de succès, c'est le personnage dont l'arme a le score d'*Initiative* (ou, à défaut, la *Dextérité*) le plus élevé qui agit en premier.
+- Si un personnage intègre le combat en cours de route, il détermine son *Initiative* et s'intègre dans l'ordonnancement à partir du tour suivant.
 
 ## Résoudre une attaque
 Une attaque est représenté par un jet en opposition entre l’attaquant et le défenseur. Si l’attaquant obtient davantage de succès que le défenseur, il peut attribuer les dégâts de son attaque.
@@ -52,14 +56,14 @@ L’action de viser suit les mêmes règles qu’une action complexe à l’exce
 - Il n’y a pas de difficulté minimum à obtenir avant de pouvoir tirer
 - Il n’est pas possible d’obtenir plus de succès que le nombre de dés dont dispose le personnage pour son action de tir.
 
-## Cas des combats de machines
+## Mise à l’échelle
+Même si les combats entre humains et les combats entre machines utilisent des compétences et des résultats numériques similaires, cela ne veut pas dire que leurs résultats sont les mêmes. Même si un humain attaquait au couteau un véhicule mécanique et obtenait 5 succès, il ne pourrait pas en trancher la coque. De la même manière, même si le tir d’un missile explosif n’entrainait qu’un unique niveau de blessure il ferait bien plus qu’une simple blessure superficielle à un humain non protégé.
+
+### Capacités utilisées dans les combats de machines
 Les combats entre machines sont résolus comme les combats entre personnages humains. Seules les caractéristiques et termes utilisés changent :
 - Actions/Mêlée			⇒ Manœuvres/Mêlée
 - Actions/Tir			⇒ Manœuvres/Tir
 - Actions/Athlétisme	⇒ Manœuvres/Pilotage
 - Dégâts				⇒ Puissance de feu
 - Armure				⇒ Blindage & Bouclier
-
-## Mise à l’échelle
-Même si les combats entre humains et les combats entre machines utilisent des compétences et des résultats numériques similaires, cela ne veut pas dire que leurs résultats sont les mêmes. Même si un humain attaquait au couteau un véhicule mécanique et obtenait 5 succès, il ne pourrait pas en trancher la coque. De la même manière, même si le tir d’un missile explosif n’entrainait qu’un unique niveau de blessure il ferait bien plus qu’une simple blessure superficielle à un humain non protégé.
 

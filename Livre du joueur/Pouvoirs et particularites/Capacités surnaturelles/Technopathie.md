@@ -9,6 +9,6 @@ Le personnage n’a pas besoin d’utiliser les périphériques de contrôle hab
 Lorsque le personnage effectue un jet relatif à une machine ou à un système informatique auquel il est connecté, il peut additionner une de ses compétences d’action ou d’interaction pertinente à sa compétence de technologie ou de manœuvre.
 
 ### Handicap optionnel : Interface homme-machine (-5 CP)
-*Afin d’utiliser ses capacités de technopathe, le personnage dispose d’un « organe » ou d’un « connectique » sur son propre corps. Généralement, les individus disposant d’une telle interface doivent leurs capacités à la science et ne peuvent se connecter qu’à certains systèmes prédéfinis. *
+*Afin d’utiliser ses capacités de technopathe, le personnage dispose d’un « organe » ou d’un « connectique » sur son propre corps. Généralement, les individus disposant d’une telle interface doivent leurs capacités à la science et ne peuvent se connecter qu’à certains systèmes prédéfinis.*
 
 Le personnage dispose d’une « interface » sur le corps qu’il doit connecter à un récepteur adapté pour utiliser ses capacités de technopathe. 
