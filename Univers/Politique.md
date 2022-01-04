@@ -2,12 +2,6 @@
 
 ## Les corporations marchandes
 
-### Groupe Pioneers
-Le *Groupe Pioneers* est un rassemblement des plus influents acteurs de la navigation spatiale : constructeurs de vaisseaux, réseaux de transports, etc... 
-La plupart des territoires administrées par le groupe sont des colonies artificielles, voir d'immenses vaisseaux-colonies constamment en mouvement.
-
-Le *Groupe Pioneers* est très impliqué dans l'expansion de l'espace connu, et subventionne de nombreux colons et explorateurs.
-
 ### Cyberth
 *Cyberth* est un conglomérat d'entreprises à la pointe de la recherche, qui prône un transhumanisme total du vivant. Si la corporation regroupe certaines des entreprises ayant le plus contribué au bien-être du vivant, elle compte également de nombreux acteurs de la recherche illégale et du marché noir.
 La direction de *Cyberth* est assurée par un conseil composé de 8 membres permanents
@@ -20,15 +14,6 @@ Naturellement, *Cyberth* s'intéresse de très près aux *onthyrs*, malgré la d
 - *Néosphère*, grand leader de la recherche pharmaceutique. Un des fondateurs de la corporation.
 - *Veltra*, fabriquant de prothèses à la pointe de la technologie.
 - *Alter Umanis*, entreprise effectuant des recherches illégale sur le clonage et se cliente avérée du trafic d'êtres humains.
-
-### Heavy Dust
-*Heavy Dust* est la plus grande entreprise de l'univers et se spécialise dans l'extraction et le commerce de ressources minières. Elle diffère des autres corporations dans le sens où il s'agit d'une unique entreprise, ayant assimilé aggressivement ses concurrents plutôt que d'avoir noué des liens étroits avec eux. 
-La firme possède de nombreuses planètes aux vastes ressources minières et aux sols riches, qu'elle exploite avec avidité. Elle est constamment en négociation afin d'entrer en possession de nouveaux sites exploitables et revend immédiatement à bas prix, voir abandonne simplement, les planètes dont elle a épuisé les ressources. 
-
-### Polaris
-*Polaris* est une corporation spécialisée dans le transport de marchandise et de personnes, ainsi que dans l'administration territoriale. Ces deux activités lui assurent une présence (et souvent une forte influence) sur des territoire dont elle n'a pourtant aucune propriété, et dont les véritables propriétaires sont ses clients. 
-En parallèle de ses activités principales, *Polaris* à assimilé des acteurs très divers afin d'assurer sa propre autonomie dans l'ensemble de son activité. Le groupe possède ainsi ses propres usines de construction ou encore ses propres exploitations agricoles.
-Enfin, *Polaris* dispose également de la plus vaste milice parmi toutes les corporations marchandes (formée notemment par l'assimilation de groupes para-militaires). Et le groupe veille à installer une caserne permanente sur pratiquement l'ensemble des territoires où il intervient, cela bien sur afin d'y renforcer sa présence et son influence.
 
 ### Ambroisie
 *Ambroisie* est la plus grande corporation du secteur des "loisirs pour adulte". Son nom est généralement associé à ses activités dans le domaine de la pornographie ou dans le commerce de drogues récréatives, mais elle possède plus simplemnt de nombreux bars et casinos. Ses établissements sont d'ailleurs le bon endroit pour obtenir substances et compagnies a tous les prix. De manière plus annecdotique, la corporation propose quelques activités et établissements plus sages, et adaptés à un jeune public, mais celà représente un pavé dans la marre à côté de ses activités les plus juteuses (sans mauvais jeu de mot). 
@@ -51,8 +36,6 @@ Si les nobles disposent d'un pouvoir limité dans la géopolitique globale de l'
 Les *vajraptis* sont une espèce intelligente, vaguement insectoïde, qui avait entrepris leur conquête spatiale bien avant que l'humanité ne quitte *Terre Mère*. 
 L'empire *vajrapti* s'étend aujourd'hui sur plus de la moitié de l'univers connu.
 
-## Nex Exilium
-*Nex Exilium* est une immense forteresse artificielle, de la taille d'une petite planète et à la politique isolationniste. Il s'agit du seul endroit de l'univers où les armes sont rigoureusement interdites et où leur possession est passible de lourdes peine, voir de la peine capitale. En fait, le gouvernement de *Nex Exilium* est seul en ses terres autorisé à posséder le pouvoir létal. Malgré ce postulat qui pourrait paraître bénéfique, il s'agit d'une véritable tyrannie totalitaire, au système judiciaire très répressif. Le moindre délit y est plus que sévèrement puni, et un mauvais concours de circonstance peut aisément briser la vie d'un individu et avoir des retombés sur ses proches. Les "quartiers" ouverts aux étrangers sont rares, et les habitants ne peuvent quitter leurs quartiers de résidence sans accréditations très difficiles à obtenir. Quant à pouvoir quitter la forteresse, il s'agit d'un luxe réservé à quelques privilégiés.
 
 ## L'Odre de la Terre Humaniste
 L'*Ordre de la Terre Humaniste*, parfois abrégé en *O.T.H.*, est une secte politique, philosophique et religieuse, qui s'oppose fermement au droit de propriété sur le sol et les planètes. Et bien que son expansion ai été quelque peu ralenti par des révélations de malversations, ses rangs ne cessent toujours d'attirer plus d'âmes égarées, aux vies broyées par des corporations toutes puissantes.

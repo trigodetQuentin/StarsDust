@@ -1,0 +1,3 @@
+# Heavy Dust
+*Heavy Dust* est la plus grande entreprise de l'univers et se spécialise dans l'extraction et le commerce de ressources minières. Elle diffère des autres corporations dans le sens où il s'agit d'une unique entreprise, ayant assimilé aggressivement ses concurrents plutôt que d'avoir noué des liens étroits avec eux. 
+La firme possède de nombreuses planètes aux vastes ressources minières et aux sols riches, qu'elle exploite avec avidité. Elle est constamment en négociation afin d'entrer en possession de nouveaux sites exploitables et revend immédiatement à bas prix, voir abandonne simplement, les planètes dont elle a épuisé les ressources. 
