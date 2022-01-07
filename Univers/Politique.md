@@ -2,19 +2,6 @@
 
 ## Les corporations marchandes
 
-### Cyberth
-*Cyberth* est un conglomérat d'entreprises à la pointe de la recherche, qui prône un transhumanisme total du vivant. Si la corporation regroupe certaines des entreprises ayant le plus contribué au bien-être du vivant, elle compte également de nombreux acteurs de la recherche illégale et du marché noir.
-La direction de *Cyberth* est assurée par un conseil composé de 8 membres permanents
- et de 8 sièges vacants, tournant entre les autres entreprises de la corporation.
- Enfin, la corporation peut compter sur de nombreux riches mécènes, en particulier des nobles à la recherche de moyen d'allonger leur durée de vie et prêts à tout pour y parvenir.
- 
-Naturellement, *Cyberth* s'intéresse de très près aux *onthyrs*, malgré la défiance de la plupart d'entre eux à son égard. En fait, la corporation s'est depuis longtemps rapproché des hiérarques *onthyrs* et fournit une quantité non-négligeable de ressources nécessaires à la subsistance des 9 lunes artificielles. En échange de ce soutien, la corporation reçoit informations et ressources afin d'essayer de percer le secret des technologies oubliées des *onthyrs*.
-
-**Entreprises notables :**
-- *Néosphère*, grand leader de la recherche pharmaceutique. Un des fondateurs de la corporation.
-- *Veltra*, fabriquant de prothèses à la pointe de la technologie.
-- *Alter Umanis*, entreprise effectuant des recherches illégale sur le clonage et se cliente avérée du trafic d'êtres humains.
-
 ### Ambroisie
 *Ambroisie* est la plus grande corporation du secteur des "loisirs pour adulte". Son nom est généralement associé à ses activités dans le domaine de la pornographie ou dans le commerce de drogues récréatives, mais elle possède plus simplemnt de nombreux bars et casinos. Ses établissements sont d'ailleurs le bon endroit pour obtenir substances et compagnies a tous les prix. De manière plus annecdotique, la corporation propose quelques activités et établissements plus sages, et adaptés à un jeune public, mais celà représente un pavé dans la marre à côté de ses activités les plus juteuses (sans mauvais jeu de mot). 
 La corporation contrôle peut de terres et de planètes, mais les quelques unes qu'elle possède (qu'elle nomme d'ailleurs ses "paradis") sont des lieux d'exubérance ou les visiteurs sont rois et où tout ou presque lui est permit. Les habitants y sont d'ailleurs très largement contractuellement liés à la corporation et contraints d'accéder au moindre désir des visiteurs payants. 
