@@ -1,4 +1,4 @@
-# Harmonisme (10 CP)
+# Harmonisme (10 CP) (DEVRAIT ETRE SUPPRIME A TERME)
 *Les harmoniseurs sont des individus ayant la capacité de ressentir, et de partager les émotions d’autrui. Mais leur plus grand pouvoir est leur capacité à apaiser les cœurs. Une simple discussion suffit à la majorité des harmoniseurs pour exprimer leurs talents, mais ceux-ci deviennent plus efficace à mesure qu’ils amplifient le contact physique avec leur cible. Cette spécificité, ainsi que l’état de bien-être dans lequel ils peuvent plonger autrui, expliquent que leurs capacités soient associées à une forme de prostitution dans certaines régions de l’univers.*
 
 Le personnage peut instinctivement ressentir les émotions des personnes avec qui il parle ou entre en contact. Il peut tenter d’apaiser ces émotions en réussissant une action complexe d’empathie sous son attribut social, dont la difficulté dépend de l’intensité des émotions de sa cible. Il peut aussi tenter de faire entrer se cible dans un état de plénitude, mais le nombre de succès requis augmente de 3.

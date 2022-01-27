@@ -11,6 +11,10 @@ En plus de ces 3 catégorie, il existe 2 autres catégories, absolument officieu
 
 ## Règles spéciales des armes
 
+### Attaque surprise
+Certaines armes furtives sont conçues pour permettre d'attaquer un adversaire avant même qu'il ne réalise que vous êtes armés. Une attaque avec une telle arme est automatiquement considérée comme une *attaque surprise*.
+Cette règle ne s'applique plus, dès lors que l'adversaire est conscient de la présence de cette arme.
+
 ### Dégâts lourds
 On dit d'une arme qu'elle inflige des *dégâts lourds* lorsque son impact ne peut être sans conséquence pour sa victime. Lorsqu'un personnage subit des *dégâts lourds*, la première blessure subie le fait directement passer en "blessure grave".
 
@@ -29,8 +33,8 @@ Le temps de rétablissement nécessaire à un personnage ayant subit des dégât
 | Blessure sérieuse        | Moins d'une heure |
 | Membre perdu/inconscient | Plusieurs heures |
 
-### Précise
-Une arme *précise* permet à son utilisateur de viser plus facilement les points faibles dans la défense de son adversaire. Lorsqu'il attaque avec une arme *précise*, tous les succès critiques du personnage infligent 1 blessure à la cible, quelque soit sa valeur de défense.
+### Force requise (X)
+Que ce soit à cause du poids de l'arme, du recul produit par son tir, ou pour toute autre raison, le maniement de l'arme exige une certaine force physique. Si le personnage qui utilise l'arme n'atteint pas la *force requise* indiquée, il perd autant de dés sur son jet d'attaque que la différence.
 
 ### Fracassement
 On dit qu'une arme est dotée du *fracassement* quand elle frappe suffisamment fort pour briser l'armure de sa cible. Lorsqu'il attaque avec une arme dotée du *fracassement*, tous les succès critiques du personnage réduise de 1 l'armure de la cible. Cette réduction d'armure intervient avant le calcul des blessures infligées et perdure dans le temps.
@@ -38,8 +42,8 @@ On dit qu'une arme est dotée du *fracassement* quand elle frappe suffisamment f
 ### Immobilisation (X)
 Certaines armes se prêtent naturellement à immobiliser un adversaire. Le plus souvent, il s'agit d'armes flexibles, comme des cordes ou des chaines. Lorsqu'un personnage entreprend une manoeuvre d'*immobilisation* avec une telle arme, il peut utiliser la valeur de **X** comme valeur à atteindre pour son jet.
 
-### Force requise (X)
-Que ce soit à cause du poids de l'arme, du recul produit par son tir, ou pour toute autre raison, le maniement de l'arme exige une certaine force physique. Si le personnage qui utilise l'arme n'atteint pas la *force requise* indiquée, il perd autant de dés sur son jet d'attaque que la différence.
+### Précise
+Une arme *précise* permet à son utilisateur de viser plus facilement les points faibles dans la défense de son adversaire. Lorsqu'il attaque avec une arme *précise*, tous les succès critiques du personnage infligent 1 blessure à la cible, quelque soit sa valeur de défense.
 
 ### Rafale (X)
 Cette règle est exclusive aux armes à projectiles. Une arme dotée de *rafale* ne tire pas un projectile par tir, mais une rafale de **X** projectiles supplémentaires (indiqué entre parenthèses). Pour représenter le nombre accru de projectile, le personnage obtient un nombre de dés supplémentaires à son jet d'attaque égal à la valeur de rafale de l'arme. Il consomme également, bien entendu, autant de munitions supplémentaires.

@@ -1,28 +1,34 @@
 # Armes de corps-à-corps
 
-## Armes improvisées (Cat. 0)
-
-| Arme  | Dégâts | Initiative | Règles spéciales |
-| :------ | :-------- | :-------- | :------------------- |
-| Tesson de bouteille | Constitution - 3 | 6 | - |
-| Cable électrique (non-alimenté) | 1 | 4 | Immobilisation (6) |
-| Barre métallique | Constitution - 1 | 5 | - |
-| Marteau de démolition | Constitution + 2 | 3 | Force Requise (6/9) ; Dégâts lourds ; Fracassement |
+## Armes improvisées (Cat. 0) & Mains nues
+| Arme					| Attaque	| Parade	| Dégâts			| Initiative	| Règles spéciales	|
+| :-------------------- | :-------- | :-------- | :---------------- | :------------ | :---------------- |
+| Mains nues			| Dextérité	| Dextérité	| Constitution 		| 6				| Mains nues		|
+| :-------------------- | :-------- | :-------- | :---------------- | :------------ | :---------------- |
+| Tesson de bouteille	| 4			| 1			| Dextérité - 2 	| 6				| -					|
+| Barre métallique		| 4			| 2			| Constitution - 1 	| 6				| -					|
+| Cable électrique		| 4			| 3			| 1 				| 4				| Immobilisation (6) |
+| Marteau de démolition	| 6			| 1			| Constitution + 2 	| 3				| Force Requise (6/9) ; Dégâts lourds ; Fracassement |
 
 ### Marteau de démolition
 Les imposants marteaux a 2 mains que l'ont trouve sur les chantiers et les sites miniers constituent des armes redoutables, entre les mains de ceux qui peuvent les soulever. Généralement constitués d'un manche d'un bon mètre, surmonté d'une lourde tête en fonte ou en matière minérale, ces marteaux nécessitent une grande force pour être maniés (6 lorsque le personnage utilise ses 2 mains, ou 9 s'il souhaite le manier d'une seule main). Néanmoins, l'impact d'un objet d'une telle masse, même s'il n'est pas conçu pour être une arme, n'est jamais sans conséquence. 
 
 ## Armes civiles (Cat. 1)
-| Arme  | Dégâts | Initiative | Règles spéciales |
-| :------ | :-------- | :-------- | :------------------- |
-| Couteau | Constitution - 2 | 8 | - |
-| Matraque | Constitution | 5 | - |
-| Taser | 7 | 6 | Dégâts temporaires |
+| Arme					| Attaque	| Parade	| Dégâts			| Initiative	| Règles spéciales	|
+| :-------------------- | :-------- | :-------- | :---------------- | :------------ | :---------------- |
+| Couteau 				| 7			| 4			| Dextérité			| 7				| -					|
+| Matraque 				| 7			| 5			| Constitution		| 6				| -					|
+| Taser					| 6			| 1			| 7					| 5				| Dégâts temporaires |
 
 ## Armes professionnelles (Cat. 2)
-| Arme  | Dégâts | Initiative | Règles spéciales |
-| :------ | :-------- | :-------- | :------------------- |
-| Fouet Mnémalgésique | 9 | 5 | Dégâts temporaires |
+| Arme					| Attaque	| Parade	| Dégâts			| Initiative	| Règles spéciales	|
+| :-------------------- | :-------- | :-------- | :---------------- | :------------ | :---------------- |
+| Lame dissimulée		| 7			| 1			| Dextérité			| 8				| Attaque surprise	|
+| Fouet Mnémalgésique	| 5			| 3			| 9					| 5				| Dégâts temporaires |
+
+### Lame dissimulée
+Une petite lame montée sur ressort, très appréciée des assassins.
+Cachée dans une manche ou dans un outil du quotidien, elle permet de frapper un adversaire avant qu'il ne le réalise.
 
 ### Fouet Mnémalgésique
 La plupart des armes dites "professionnelles" le sont car elles sont conçues pour tuer. Mais les plus effrayantes d'entre elles sont probablement celles qui ont spécifiquement été conçues pour **ne pas** tuer. 

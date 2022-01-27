@@ -15,13 +15,12 @@ Une attaque est représenté par un jet en opposition entre l’attaquant et le 
 L’attaque d’un personnage est résolue par un jet ordinaire sur les caractéristiques adaptées :
 - La *Mêlée* est la compétence utilisée pour porter une attaque au corps à corps
 - Le *Tir* est la compétence utilisée pour attaquer avec une arme à distance
-- La *Dextérité* est l’attribut couramment utilisé pour attaquer
+- La valeur à obtenir correspond à l'attribut *Attaque* de l'**arme utilisée**.
 
 ### Défense
 Selon la situation, la cible d’une attaque peut tenter de s’en défendre. Traditionnellement par une parade ou une esquive. Cette défense est également résolue par un jet ordinaire.
-- L’*Athlétisme* est la compétence utilisée pour une esquive
-- La *Mêlée* est la compétence utilisée pour une parade
-- La *Dextérité* est à nouveau l’attribut couramment utilisé
+- L’*Athlétisme* est la compétence utilisée pour une esquive. La valeur à obtenir correspond à la *Dextérité* du personnage.
+- La *Mêlée* est la compétence utilisée pour une parade. La valeur à obtenir correspond à l'attribut *Parade* de l'**arme utilisée**.
 
 ### Attribution des dégâts
 Si un joueur obtient plus de succès avec son attaque que la défense de sa cible (ou si la cible ne se défend pas), chaque succès supplémentaire peut provoquer une blessure.

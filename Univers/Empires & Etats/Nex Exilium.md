@@ -4,13 +4,15 @@
 
 ## L'endroit le plus sur du monde
 
-*Nex Exilium* se présente comme l'endroit le plus sur du monde. Il s'agit du seul etat de l'univers où le port et la possession d'armes soit rigoureusement interdit, et où tout contrevenant s'expose à un châtiment sévère et direct. De manière générale, la forteresse affiche un taux de criminalité excessivement bas, et s'en enorgueillise auprès des autres puissances politiques.
+*Nex Exilium* est née de l'ambition d'un groupe de personnes de créé une utopie où chacun pourrait vivre paisiblement. La ville est gérée par une intelligence artificielle évolutive, chargée de s'assurer du bien être de l'ensemble des citoyens.
+
+Souvent surnommé "l'endroit le plus sur du monde", il s'agit du seul etat de l'univers où le port et la possession d'armes soit rigoureusement interdit, et où tout contrevenant s'expose à un châtiment sévère et direct. De manière générale, la forteresse affiche un taux de criminalité excessivement bas, et s'en enorgueillise auprès des autres puissances politiques.
 
 Le taux de sans-abris y est également nul. L'administration et le système central de *Nex Exilium* veille à fournir activité, un toit et de la nourriture à chacun de ses concitoyens. Ce qui leur permet de vivre une vie simple et organisé, tant qu'ils sont près à se soumettre à la tâche qui leur est confiée.
 
 Les contacts entre *Nex Exilium* et l'extérieur passent avant tout par son administration. En effet, les entrées et sorties de la forteresse sont extrêment réglementés, et même les marchands accrédités pour pénétrer dans ses spatio-ports ne sont pas autorisés à quitté le quartier où ils sont atterits.
 
-## Une tyrannie totalitaire
+## Une tyrannie automatisée
 
 En dépit de l'idylle sécuritaire qu'elle souhaite renvoyer, *Nex Exilium* est surtout une dictature totalitaire, qui surveille en permanence les faits et gestes de ses habitants. Le système juridique y est excessivement répressif, affichant l'ambition de tuer le crime dans l'oeuf. Et un mauvais concours de circonstance peut suffir à condamner quelqu'un a perpétuité, ou à faire peser de lourdes tensions sur ses proches.
 
