@@ -1,8 +1,8 @@
 # Créer son personnage
 ## Résumé de la création de personnage
-- 32 points à répartir dans les « attributs »
+- 30 points à répartir dans les « attributs »
 	- Entre 3 et 8 points par attribut
-- 15-20 (?) points à répartir dans les « compétences » 
+- 20 (?) points à répartir dans les « compétences » 
 	- 5 points maximum par compétence
 - 25 (?) CP 
 - Pas de niveau de blessure
@@ -23,17 +23,17 @@ Le cout de chaque augmentation ou gain est indiqué dans le tableau ci-dessous :
 
 ### Obtenir des CP
 Au fil de ses aventures, un personnage va obtenir des CP de différentes manières. La répartition exacte reste à la discrétion du conteur, mais voici quelques pistes pour vous éclairer :
-- Le personnage obtient/déduit une information clé		=> 1 CP
+- Le personnage obtient/déduit une information clé			=> 1 CP
 - Le personnage ressort victorieux d’un combat difficile	=> 1 CP 
-- Le joueur a fait preuve d’un rôle-play exemplaire		=> 1 CP
-- Un objectif secondaire du scénario est accompli		=> 2 CP
-- L’objectif principal du scénario est accompli			=> 4 CP
+- Le joueur a fait preuve d’un rôle-play exemplaire			=> 1 CP
+- Un objectif secondaire du scénario est accompli			=> 2 CP
+- L’objectif principal du scénario est accompli				=> 4 CP
 
 ### Valeurs de références
 - +1 point d’attribut						=> 10 CP
-- Atteindre 4 dans une nouvelle compétence			=> 10 CP
+- Atteindre 4 dans une nouvelle compétence	=> 10 CP
 - Modificateurs de particularités
 	- Accroit les effets					=> 5 CP
-	- Accorde de nouveaux effets				=> 10 CP
+	- Accorde de nouveaux effets			=> 10 CP
 	- Risque de malus aux dés				=> -5 CP
 	- Risque de perte de santé				=> -10 CP

@@ -1,4 +1,17 @@
 # Atouts
+
+## Adrénaline (5 CP)
+*C'est dans l'adversité que le personnage est capable de dévoiler toutes ses compétences. Et il n'est jamais plus efficace que lorsque sa vie est véritablement menacée.*
+
+Lorsque le personnage subit une blessure (sauf si celle-ci provient d'une maladresse de sa part), celui-ci obtient 1 dé supplémentaire à sa prochaine action. 
+A la discrétion du conteur, ce bonus peut également être accordé à un personnage dans une situation ouvertement tendue (par exemple, une course poursuite avec un opposant armé).
+
+## Sens du danger (10 CP)
+*Le personnage, habitué à évoluer dans un environnement hostile, à développer un instinct inné pour repérer les dangers, et surtout y faire face.*
+
+Le personnage ajoute 1 dé à tous ses jets visant à détecter un danger ou à s'en prémunir (ce bonus ne s'applique pas à l'attaque ou à la défense en combat).
+De plus, à moins de circonstances exceptionnelles (comme un jet critique), le personnage ne subit jamais d'effet de surprise qui mette sa vie en jeu.
+
 ## Vision dans le noir (5 CP)
 *Les yeux du personnage sont habitués à l’obscurité, lui permettant de conserver la vue là où la plupart des gens doivent agir à l’aveugle.*
 
