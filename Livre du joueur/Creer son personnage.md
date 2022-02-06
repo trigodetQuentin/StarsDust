@@ -4,7 +4,7 @@
 	- Entre 3 et 8 points par attribut
 - 20 (?) points à répartir dans les « compétences » 
 	- 5 points maximum par compétence
-- 25 (?) CP 
+- 20 (?) CP 
 - Pas de niveau de blessure
 - Niveau d’énergie « normal »
 

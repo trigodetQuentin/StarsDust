@@ -1,4 +1,4 @@
-# Influence (10 CP)
+# Influence (5 CP)
 *Certains individus possèdent un magnétisme irrésistible. Une aura qu'il est tout simplement difficile, voir impossible, d'ignorer. Simple charisme pour certains, véritable faculté parahumaine pour d'autre, il est en tous les cas difficile d'ignorer que de tels individus existes. Et que leurs facultés leur octroie une véritable influence sur les esprits les plus faibles.*
 
 Le personnage peut établir un *contact psychique* avec un personnage dont il croise le regard. Tant que le *contact psychique* perdure, sa cible ne peut détourner le regard du personnage, ni s'empêcher de lui prêter attention.
